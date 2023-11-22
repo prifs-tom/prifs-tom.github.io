@@ -29,6 +29,7 @@
         
         
           This is a funny cat
+const device = &amp;#34;wireless&amp;#34;; const lookedInside = true; if (lookedInside) { throw new Error(&amp;#34;Wires&amp;#34;); } 
           
         
         </description>
