@@ -5,12 +5,12 @@
     
     
     
-    <link>prifs-tom.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Prifs20-5-Tom-Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="prifs-tom.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
